@@ -10,10 +10,7 @@ Which cities, booking platforms and booking patterns drive revenue, and how much
 - Key fields: booking status, booking platform, city, room category, revenue generated, revenue realized, ratings
 
  Tools
-SQL (MySQL)  • Power Query • Power BI (DAX) <img width="1322" height="737" alt="Dashboard 2" src="https://github.com/user-attachments/assets/58d41b5b-f0a6-4da6-b5c2-1e42c7c879c5" />
-<img width="1320" height="742" alt="Dashboard 1" src="https://github.com/user-attachments/assets/3bb836c0-14f2-4bf6-8ab6-4000d6c5dd12" />
-<img width="1322" height="737" alt="Dashboard 2" src="https://github.com/user-attachments/assets/80058821-9823-4150-991f-1ccaba433d50" />
-<img width="1320" height="742" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2963f4ad-8bfd-4a86-987c-d525b44e5735" />
+SQL (MySQL)  • Power Query • Power BI (DAX) 
  • Excel
 
  Approach
